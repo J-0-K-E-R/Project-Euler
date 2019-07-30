@@ -27,8 +27,8 @@ As we know that there has to be a palindrome multiplication of two number betwee
 
 int main()
 {
-     int i=999, j, product, max = 0, n1 = 0, n2 = 0;
-     for (i ; i > 100 ; i--)
+     int i, j, product, max = 0, n1 = 0, n2 = 0;
+     for (i = 999 ; i > 100 ; i--)
      {
         for (j = 999 ; j > 100 ; j--)
         {
